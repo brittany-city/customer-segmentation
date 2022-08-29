@@ -2,10 +2,7 @@
 
 #### Project Status: Complete
 
-## Motivation 
-
-
-## Success
+## Outcome
 * Applied K-Means to the Customer data and identified 4 underlying segments: 
   1. low income ($20-40k) & low spending score (0-40)
   2. low income ($20-40k) & high spending score (40-100)
